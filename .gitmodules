@@ -1,0 +1,3 @@
+[submodule "ChromaTag"]
+	path = ChromaTag
+	url = https://github.com/MODit3D/ChromaTag.git
