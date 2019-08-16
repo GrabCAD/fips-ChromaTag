@@ -1,0 +1,12 @@
+
+#
+# fips-ChromaTag/fips.yml
+#
+---
+exports:
+    header-dirs: 
+      - ChromaTag/Detector 
+      - ChromaTag/Utilities/ 
+      - ChromaTag/Utilities/Common 
+      - ChromaTag/Utilities/Math 
+      - ChromaTag/Utilities/Vision

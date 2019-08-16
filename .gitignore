@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+.fips-*
+.vscode/ipch/
+
+# python binding
+build/
+cmake/
+.cache/
+dist/
+*.egg-info
+*.pyc
